@@ -1,0 +1,37 @@
+.other-solutions .container-fluid:nth-child(1){
+    display: none;
+}
+.na{
+    margin:20px !important;
+}
+.para{
+    margin-bottom: 0%;
+    font-size: 30px;
+    font-weight:bold;
+}
+.paragr{
+    margin-top:7px;
+    font-size: 40px;  
+    font-weight:bolder ;
+}
+.title-head{
+    margin-top: 10px;
+}
+.image-page{
+    margin-top: 8rem !important;
+}
+.middle-page{
+   
+    height: 6rem !important;
+    width: auto ;
+}
+.text-middle{
+    font-size: 30px !important;
+    margin-top: 35rem !important;
+}
+.dropdown-menu{
+    display: none; opacity: 1;
+}
+.bottom{
+    margin: 0% !important;
+}
